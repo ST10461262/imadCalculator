@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etNum2" type="id">etNum2</item>
+    <item name="tvDisp" type="id">tvDisp</item>
+</resources>
